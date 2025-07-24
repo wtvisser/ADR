@@ -16,6 +16,6 @@ An architecture decision record (ADR) is a document that captures an important a
 * [A Definition of Done for Architectural Decision Making - Olaf Zimmermann](https://www.ozimmer.ch/practices/2020/05/22/ADDefinitionOfDone.html)
 
 ## Templates
-* [ADR](/template/adr.md)
-* [ADR Overview](/template/adr-overview.md)
-* [ADR Administration](/template/adr-admin.md)
+* [ADR](/templates/adr.md)
+* [ADR Overview](/templates/adr-overview.md)
+* [ADR Administration](/templates/adr-admin.md)
